@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "くるみ",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-31T11:34:50.219536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "くるみ -for the film- 幸福な食卓",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_くるみ_-for_the_film-_幸福な食卓_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "くるみ - Studio Live",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/02_くるみ_-_Studio_Live_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "くるみ",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/03_くるみ_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "くるみ",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_くるみ_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "くるみ",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/05_くるみ_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "くるみ -for the Film- 幸福な食卓",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/06_くるみ_-for_the_Film-_幸福な食卓_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "くるみ - for the Film - 幸福な食卓",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/07_くるみ_-_for_the_Film_-_幸福な食卓_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "くるみ (Studio Live)",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/08_くるみ_(Studio_Live)_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "くるみ ぽんちお (Bonus Track)",
+      "artist": "Citra Terranova",
+      "has_synced": false,
+      "path": "select/09_くるみ_ぽんちお_(Bonus_Track)_Citra_Terranova.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "くるみ☆ぽんちお",
+      "artist": "まだ仔 feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/10_くるみ☆ぽんちお_まだ仔_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "くるみ☆ぽんちお",
+      "artist": "vip店長",
+      "has_synced": true,
+      "path": "select/11_くるみ☆ぽんちお_vip店長.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "くるみ",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_くるみ_Mr.Children.txt"
+    }
+  ]
+}
